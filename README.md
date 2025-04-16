@@ -1,7 +1,9 @@
 # Game-memory-sharper#
 Rules are on JAY.TXT files.....
 🟢 Simon Says Game
-A fun and interactive Simon Says memory game built using HTML5, CSS3, and JavaScript.
+
+
+##A fun and interactive Simon Says memory game built using HTML5, CSS3, and JavaScript.
 Challenge your memory by following an ever-growing sequence of colors and sounds. How far can you go?
 
 🎮 How to Play
