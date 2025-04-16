@@ -31,3 +31,5 @@ CSS3 – Styling and animations (responsive design using Flexbox)
 JavaScript – Game logic, user interactions, and sequence management
 
 ![image](https://github.com/user-attachments/assets/fbd1d86e-3340-487c-adfe-25c350a821de)
+![image](https://github.com/user-attachments/assets/021c7980-dd89-4473-8f9e-bf1ecaf021a2)
+
