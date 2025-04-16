@@ -1,0 +1,21 @@
+### 🔹 Basic Rules:
+
+- One person is chosen to be **Simon**.
+- Simon gives instructions to the rest of the players.
+- Players must **only follow commands** that begin with "##Simon says...##".
+- If Simon **doesn't** say "Simon says" before the command, players **must not** follow it.
+- If a player **follows a command without “Simon says”**, they are **out** of the game.
+- The last remaining player becomes the **winner** — or the next Simon, if playing multiple rounds.
+
+### 🔹 Example Commands:
+
+- ✅ "Simon says touch your nose" → **Players must touch their nose.**
+- ❌ "Touch your nose" → **Players should do nothing.** Anyone who touches their nose is out.
+
+### 🔹 Additional Rules (Optional Variations):
+
+- Commands can be **fast-paced** to trick players.
+- Simon can use **tricky tone or gestures** to confuse players.
+- Players must perform the action **correctly** and **quickly**.
+- If a player **hesitates** or makes a **mistake**, they may be out.
+- For younger kids, you can play **non-elimination rounds**, just for fun.
